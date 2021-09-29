@@ -1,0 +1,16 @@
+{
+  "name": "next-app",
+  "version": "1.0.0",
+  "description": "A simple next.js application for learning purposes",
+  "main": "index.js",
+  "author": "Darbaz Ali",
+  "license": "MIT",
+  "scripts": {
+    "start": "next"
+  },
+  "dependencies": {
+    "next": "^11.1.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
